@@ -9,6 +9,6 @@ O projeto pode ser melhorado, há implementações ainda a ser realizadas como:
 - Exclusão de imagens caso o jogo seja deletado
 
 # Logins:
-Para Incluir novo jogo, deletar ou editar é necessário realizar login, você pode utilizar o login
-Nickname: BD
+Para Incluir novo jogo, deletar ou editar é necessário realizar login, você pode utilizar o login <br><br>
+Nickname: BD <br>
 Senha: alohomora
