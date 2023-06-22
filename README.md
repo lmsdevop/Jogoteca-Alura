@@ -1,13 +1,8 @@
 ## Bem-vindo ao Jogoteca
 
 # Versões:
-É necessário realizar a instalação do framework usando 'pip install {nome}'
-
-As versões utilizadas são:
-
-Python 3.11.3 
-Flask 2.3.2   
-Werkzeug 2.3.4
+Python version 3.11.3
+É necessário realizar a instalação do framework e bibliotecas usando 'pip install -r requirements.txt'
 
 # Sobre:
 O projeto pode ser melhorado, há implementações ainda a ser realizadas como:
